@@ -2,13 +2,15 @@
 
 This is a personal portfolio website built to showcase my work and skills as a web developer and programmer.
 
+Live Site: https://navinfeb15.github.io/portfolio/
+
 ## Built With
 
--   HTML
--   CSS
--   JavaScript
--   [Bootstrap v5.3.2](https://getbootstrap.com/)
--   [BootstrapMade Iportfolio Template](https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/)
+![Alt text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Alt text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Alt text](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![Alt text](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Alt text](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Features
 
